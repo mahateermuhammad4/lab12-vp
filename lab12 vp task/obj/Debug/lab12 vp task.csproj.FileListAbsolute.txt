@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\lab12 vp task\bin\Debug\lab12 vp task.exe.config
+C:\Users\HP\Desktop\lab12 vp task\bin\Debug\lab12 vp task.exe
+C:\Users\HP\Desktop\lab12 vp task\bin\Debug\lab12 vp task.pdb
+C:\Users\HP\Desktop\lab12 vp task\obj\Debug\lab12 vp task.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\lab12 vp task\obj\Debug\lab12 vp task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab12 vp task\obj\Debug\lab12 vp task.exe
+C:\Users\HP\Desktop\lab12 vp task\obj\Debug\lab12 vp task.pdb
