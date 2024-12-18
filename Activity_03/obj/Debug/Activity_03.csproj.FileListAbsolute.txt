@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Activity_03\bin\Debug\Activity_03.exe.config
+C:\Users\HP\Desktop\Activity_03\bin\Debug\Activity_03.exe
+C:\Users\HP\Desktop\Activity_03\bin\Debug\Activity_03.pdb
+C:\Users\HP\Desktop\Activity_03\obj\Debug\Activity_03.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Activity_03\obj\Debug\Activity_03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Activity_03\obj\Debug\Activity_03.exe
+C:\Users\HP\Desktop\Activity_03\obj\Debug\Activity_03.pdb
